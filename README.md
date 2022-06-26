@@ -1,3 +1,35 @@
+# Code Flow
+## Branches
+
+Main: All branches come from main 
+
+[change/type-of-functionality] - Work branch for development;
+
+### Work branches follow the following pattern:
+
+**feat/login
+**fix/signup
+
+
+## Commits
+
+É muito importante escrevermos os commits seguindo este guia que tem como objetivo criar um padrão ao descrever a mensagem do commit.
+
+### Commit in a nutshell
+
+    Separate subject from body with a blank line
+    Limit the subject line to 50 characters
+    Capitalize the subject line
+    Do not end the subject line with a period
+    Use the imperative mood in the subject line
+    Wrap the body at 72 characters
+    Use the body to explain what and why vs. how
+
+Subject example:
+ FEAT: implement login
+
+[optional body]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
